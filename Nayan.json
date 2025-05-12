@@ -9,16 +9,14 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "ALAMIN",
+  "BOTNAME": "mahim",
   "PREFIX": "/",
-  "react": "☠️",
+  "react": "🥳",
   "OPERATOR": [
-    "",
-    "61569568560258"
+    "100088769563815"
   ],
   "ADMINBOT": [
-    "61569568560258",
-    ""
+    "100088769563815"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
